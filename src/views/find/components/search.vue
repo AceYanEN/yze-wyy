@@ -45,7 +45,7 @@ export default {
         </van-badge>
       </template>
       <template #right>
-        <!-- <a href="https://github.com/ay192018/v3netease">
+        <a href="https://github.com/AceYanEN/yze-wyy">
           <van-image
             width="30"
             height="30"
@@ -55,7 +55,7 @@ export default {
                 ? 'https://b.yzcdn.cn/vant/logo/github.svg'
                 : 'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fouo1x3vy6.bkt.clouddn.com%2Fgithub_Icon.jpg&refer=http%3A%2F%2Fouo1x3vy6.bkt.clouddn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1651165883&t=a2e93d283ed0f34c53d4f6d086f06779'
             "
-        /></a> -->
+        /></a>
       </template>
     </van-nav-bar>
     <van-popup
